@@ -1,0 +1,91 @@
+query,intent
+The app is showing a technical error.,technical
+I was charged more than the displayed price.,billing
+The verification code is not arriving.,technical
+I was billed twice for one purchase.,billing
+Can I change my account information?,general
+What can I use this platform for?,general
+I need to cancel a payment and get a refund.,billing
+The payment keeps getting rejected.,billing
+Login is not working for me.,technical
+The app crashes every time I try to use it.,technical
+I am not receiving the verification email.,technical
+Why is the website so slow?,technical
+I want to learn more about your services.,general
+I am still waiting for my refunded money.,billing
+Something seems to be broken with the application.,technical
+Search results are not appearing.,technical
+How do I contact support?,general
+How can I register for an account?,general
+The upload keeps failing.,technical
+The search button does nothing.,technical
+The system is responding very slowly.,technical
+I want to delete my account.,general
+Do you offer a mobile version?,general
+Where can I reach your support team?,general
+I am getting an error when opening the app.,technical
+Why is my invoice higher than expected?,billing
+The site is completely unresponsive.,technical
+What are the steps to create an account?,general
+The app keeps crashing when I open it.,technical
+I did not receive the OTP.,technical
+When can I contact customer support?,general
+I cannot access my account.,technical
+I am unable to sign into my account.,technical
+Where can I find more information?,general
+The application is extremely slow.,technical
+Is there an app I can use?,general
+How can I get a refund?,billing
+I cannot access the website.,technical
+Can I use another payment method?,billing
+My refund has not appeared yet.,billing
+Can you tell me what your service offers?,general
+How do I create an account?,general
+Why won't my document upload?,technical
+Can you explain this charge on my account?,billing
+The website is not loading.,technical
+How do I update my profile?,general
+There is a duplicate charge on my account.,billing
+When will my refund arrive?,billing
+I forgot my password and cannot log in.,technical
+I cannot upload my file.,technical
+Do you support debit card payments?,billing
+Can I use the service on my phone?,general
+My payment was declined.,billing
+There is a payment I did not make.,billing
+I see an unfamiliar transaction on my account.,billing
+What are your customer support hours?,general
+Pages are taking too long to load.,technical
+Where are the company policies listed?,general
+The amount on my bill is incorrect.,billing
+I want to know more about your policies.,general
+Can I pay using a credit card?,billing
+Where can I edit my account details?,general
+The login code never reached my phone.,technical
+What payment methods do you accept?,billing
+Why was I charged twice for the same order?,billing
+Can I permanently remove my account?,general
+I cannot find anything using search.,technical
+How do I close my account?,general
+I am having trouble uploading a file.,technical
+Can someone explain how the service works?,general
+Why did my card payment fail?,billing
+Do you have a mobile application?,general
+What services do you provide?,general
+I need to change my payment details.,billing
+I cannot complete my payment.,billing
+Where can I find your terms and conditions?,general
+What is the process for closing an account?,general
+I don't recognize this charge on my card.,billing
+The search feature is not working.,technical
+I want to change my personal information.,general
+My bill has an incorrect amount.,billing
+Where can I sign up?,general
+I want to request a refund for my purchase.,billing
+How long does a refund take?,billing
+How do I update my billing information?,billing
+Why does the application close unexpectedly?,technical
+The page keeps showing an error.,technical
+Why did I get charged two times?,billing
+Can you help me get my money back?,billing
+How can I read your terms of service?,general
